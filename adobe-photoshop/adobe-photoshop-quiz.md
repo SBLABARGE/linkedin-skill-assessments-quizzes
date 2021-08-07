@@ -98,9 +98,10 @@
 #### Q12. Which format does NOT support an alpha channel?
 
 - [ ] PSD
-- [x] PNG
-- [ ] TIFF
+- [ ] PNG
+- [x] TIFF
 - [ ] BMP
+
 
 #### Q13. What is the best way to save multiple images into a single PDF?
 
